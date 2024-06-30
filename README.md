@@ -13,7 +13,7 @@ This project is a Flask application for building a dashboard using Python.
 
 ### Data
 
-Import sql that already uploaded in Data folder into your database 
+Import sql that already uploaded in Database folder into your database 
 
 ### Setting Up Virtual Environment (Optional)
 ```bash
