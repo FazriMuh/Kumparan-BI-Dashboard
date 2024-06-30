@@ -1,7 +1,7 @@
-# Project Title
+# BI Dashboard
 
 ## Project Description
-This project is a Flask application for data processing using Python.
+This project is a Flask application for building a dashboard using Python.
 
 ### Project Structure
 - `app.py`: Main Flask application file.
@@ -21,8 +21,13 @@ venv\Scripts\activate  # For Windows
 
 To install all the required packages, use the following command:
 
+```
+### Package Installation
 ```bash
 pip install Flask matplotlib pandas sqlalchemy
+```
 
 ## Run App in Terminal
+```pearl
 python app.py
+```
