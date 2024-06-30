@@ -11,18 +11,21 @@ This project is a Flask application for building a dashboard using Python.
 
 ## Installation
 
-### Setting Up Virtual Environment
+### Data
+
+Import sql that already uploaded in Data folder into your database 
+
+### Setting Up Virtual Environment (Optional)
 ```bash
 python -m venv venv
 source venv/bin/activate  # For Unix/Mac
 venv\Scripts\activate  # For Windows
+```
 
 ### Package Installation Code
 
 To install all the required packages, use the following command:
 
-```
-### Package Installation
 ```bash
 pip install Flask matplotlib pandas sqlalchemy
 ```
