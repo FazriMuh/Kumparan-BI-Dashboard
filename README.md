@@ -3,6 +3,10 @@
 ## Project Description
 This project is a Flask application for building a dashboard using Python.
 
+## Preview Dashboard
+To view the dashboard preview, download and open the HTML file located in the `Preview-html` folder.
+
+
 ### Project Structure
 - `app.py`: Main Flask application file.
 - `data_processing.py`: Module for data processing.
