@@ -38,3 +38,6 @@ pip install Flask matplotlib pandas sqlalchemy
 ```pearl
 python app.py
 ```
+## Preview Dashboard Image
+
+![Dashboard Preview](Preview-html/preview.png)
